@@ -1,0 +1,66 @@
+html {
+     margin="10px";
+     padding="10px";
+}
+body {
+     font-family:"Times New Roman", Times, arief;
+     font-size:15pt;
+     color:black;
+     padding:10px;
+     margin:0;
+}
+h1 {
+   font-family:"Times New Roman", Times, arief;
+   font-size:15pt;
+   text-align:center;
+   color:black;
+   padding:18px 0 18px 0;
+   margin:0 0 10px 0;
+}
+.quote {
+       font-family:"Times New Roman", Times, arief;
+       font-size:15pt;
+       text-align:right;
+       color:black;
+       padding-top:10px;
+}
+.section {
+        font-family:"Times New Roman",Times,arief;
+         font-size:15pt;
+         background-color:normal;
+         margin-bottom:10px;
+         border-radius:10px;
+    padding:15px;
+    
+}
+h1 span{
+       border:4px dashed #20bcd5;
+       padding:10px;
+     color:#20bcd5;
+}
+p {
+  font-family:"Times New Roman", Times, arief;
+  font-size:15pt;
+  padding-top:15px;
+  margin-left:10px;
+  margin-right:10x;
+}
+.1 {
+    font-family: "Time New Roman", Times, serif;
+    font-size: 15pt;
+    text-align: center;
+    font-style: italic;
+    font-weight: 200;
+    float:left;
+    color:aqua;
+    background-color: bisque;
+}
+.2 {
+    text-align: center;
+    float:left;
+}
+h2.2{
+    font-size: 20pt;
+    font-style: normal;
+    border: 5px dashed #20bcd5;
+}
